@@ -1,0 +1,4 @@
+student,age,food_preference,allergy,activity
+Student1,11,Vegetarian,None,High
+Student2,12,Vegetarian,Peanut,Medium
+Student3,10,Vegetarian,None,Low
